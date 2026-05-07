@@ -124,7 +124,7 @@ class FizzBuzz {
 }
 ```
 
-- [ ] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
+- [X ] Open `FizzBuzz.java` in the `src` directory and click the run button in the top left corner.
 
 If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
@@ -142,7 +142,7 @@ the code are doing. For example, what's the Java version of Python's `and`? What
 on with that weird `for` loop? As you do this, you might find it useful to write down your
 own implementation in Python to help you begin to create a mapping between the two languages.
 
-- [ ] Make note of any specific Java syntax which stands out to you and compare what you
+- [X ] Make note of any specific Java syntax which stands out to you and compare what you
 come up with those around you. Try to come up with a list of at least five things that
 strike you as either similar to or different from Python.
 
@@ -221,7 +221,7 @@ a sequence of three git commands:
 
 - [X ] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
-- [ ] repeat the above steps for `README.md` (or try using the approach below).
+- [X ] repeat the above steps for `README.md` (or try using the approach below).
 
 Tip: You can also use IntelliJ to execute these same steps using the graphical user interface it provides.
 If you have followed the software installation instructions, you should see `Git` in the menu bar at the top.
