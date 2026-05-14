@@ -13,7 +13,7 @@ https://github.com/CSC207-2026S-UofT/Lab-1
 1. Make sure you are logged into GitHub. You should see a button that says `Fork` in the top-right corner of the page.
 Click this button to create a fork of this repository, which will be your own copy of the codebase to edit as you please.
 In the new page that comes up, confirm that you want to create the fork and your own FizzBuzz repository will be created
-on GitHub!
+on GitHub!git
    * Note that there is a checkbox for "Copy the main branch only", for this lab this doesn't matter, but in a future lab or for your own project, you may take a second to think if you also want to copy the other branches.
 
 2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.

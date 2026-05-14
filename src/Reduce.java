@@ -1,12 +1,11 @@
 public class Reduce {
     public static int main(int n) {
         int count = 0;
-        int i = 100;
-        while(i > 0){
-            if(i % 2 == 0){
-                i/=2;
+        while(n > 0){
+            if(n % 2 == 0){
+                n/=2;
             }else{
-                i -=1;
+                n -=1;
             }
             count ++;
         }
