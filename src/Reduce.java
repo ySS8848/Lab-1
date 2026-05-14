@@ -1,5 +1,5 @@
 public class Reduce {
-    public static void main(String[] args) {
+    public static int main(int n) {
         int count = 0;
         int i = 100;
         while(i > 0){
@@ -10,6 +10,10 @@ public class Reduce {
             }
             count ++;
         }
-        System.out.println(count);
+        return count;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(main(100));
     }
 }

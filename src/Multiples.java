@@ -1,11 +1,20 @@
 public class Multiples {
-    public static void main(String[] args) {
+    public static int main(int bound, int a, int b) {
         int count = 0;
-        for(int i = 1; i < 1000; i++){
-            if (i % 3 == 0 || i % 5 == 0){
+        for(int i = 1; i < bound; i++){
+            if (i % b == 0 || i % a == 0){
                 count ++;
             }
         }
-        System.out.println(count);
+        return count;
+    }
+
+    public static int main() {
+        return main(1000, 5, 3);
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println(main());
     }
 }
